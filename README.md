@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Britzman
 - 👀 I’m interested in Data Analysis, Physics, Astronomy, Music
-- 🌱 I’m currently learning MySQL, Python, Git, Github
+- 🌱 I’m currently learning MySQL, Python, Git, Github, Tableau
 - 📫 How to reach me:
 Email:  marbritzman@gmail.com 
         m.bigboii@yahoo.com
